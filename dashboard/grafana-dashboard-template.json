@@ -1,0 +1,9 @@
+{
+  "title": "Water Monitoring Dashboard",
+  "panels": [
+    {"title": "pH"},
+    {"title": "Temperature"},
+    {"title": "Dissolved Oxygen"},
+    {"title": "Conductivity"}
+  ]
+}
