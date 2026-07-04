@@ -1,0 +1,3 @@
+{
+  "sensors": ["ph","temperature","do","orp","conductivity","tds"]
+}
