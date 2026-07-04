@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+paho-mqtt
+influxdb-client
+sqlalchemy
+python-jose
+passlib[bcrypt]
