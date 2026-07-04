@@ -1,0 +1,6 @@
+{
+  "tanks": [
+    {"id":"tank01","location":"Tambunan"},
+    {"id":"tank02","location":"Penampang"}
+  ]
+}
